@@ -5,6 +5,7 @@ gcp.json
 /node_modules
 /.pnp
 .pnp.js
+.node-verison
 
 # testing
 /coverage
